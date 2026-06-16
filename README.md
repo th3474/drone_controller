@@ -251,6 +251,3 @@ Files are ready for direct upload to JLCPCB for 4-layer PCB fabrication.
 
 **Separate I2C buses:** The IMU and EEPROM share I2C3, while the INA226 uses I2C2, keeping power monitoring traffic isolated and preventing bus contention.
 
----
-
-*NYU Tandon School of Engineering — ECE-UY 4423 PCB Design for Embedded Systems*
