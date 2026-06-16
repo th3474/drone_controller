@@ -1,12 +1,5 @@
 # Drone Flight Controller PCB
 
-**NYU Tandon School of Engineering — ECE-UY 4423 PCB Design for Embedded Systems**  
-**Instructor:** Professor Matthew Campisi  
-**Team:** Theodore Hua · Sharlize Rodriguez · Ivy Zheng  
-**Revision:** A1 · Date: 6/11/2026  
-
----
-
 ## Overview
 
 This repository contains all design files for a custom drone flight controller PCB built around the **STM32F405RGT6** microcontroller. The board integrates every subsystem needed for autonomous quadrotor flight onto a single 4-layer PCB that physically fits a standard **DJI F450 drone frame centerplate**, aligned using M3 screw mounts.
